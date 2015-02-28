@@ -54,6 +54,7 @@ gem "actionpack-page_caching"
 # Omniauth for authentication
 gem "omniauth"
 gem "omniauth-openid"
+gem "omniauth-google-oauth2"
 
 # Markdown formatting support
 gem "redcarpet"
